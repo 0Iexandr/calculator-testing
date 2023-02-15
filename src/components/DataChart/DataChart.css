@@ -1,0 +1,27 @@
+.position {
+  padding: 10px 80px;
+  height: 50%;
+  width: 80%;
+}
+
+.chart-label {
+  margin-top: 115px;
+  display: flex;
+  column-gap: 5px;
+  align-items: baseline;
+}
+
+.chart-label-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+}
+
+.chart-label h3 {
+  margin: 0;
+}
+
+.chart-span {
+  transform: translateY(-100%);
+  margin-bottom: 20px;
+}

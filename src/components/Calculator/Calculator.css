@@ -1,0 +1,18 @@
+.calc-container {
+  width: 60%;
+  height: 90%;
+  border: 1px solid rgb(118, 118, 118);
+  border-radius: 20px;
+  margin: 0;
+  background-color: rgba(17, 67, 68, 0.091);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+}
+
+.calc-title {
+  margin: 10px 0 0;
+  text-align: center;
+}
